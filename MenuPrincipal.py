@@ -6,7 +6,7 @@ def menu_principal()->None:
     """
     Muestra el menu principal
     """
-    filas = 2
+    filas = 30
     cols = 5
 
     matriz_calificaciones = crear_matriz(filas, cols, 0)
